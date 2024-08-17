@@ -15,5 +15,7 @@ console.log(undefined<0);
 
 console.log("2"===2)
 
+//avoid this type of conversion
+
 
 
