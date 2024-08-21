@@ -41,4 +41,6 @@ console.log(typeof heros);
 console.log(typeof anotherId);
 
 
+// stack and heap
+
 
